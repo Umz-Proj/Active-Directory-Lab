@@ -20,7 +20,7 @@ In this lab, I used Oracle VirtualBox to create an Active Directory home environ
 
 <p align="center">
 Home Lab Environment: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://files.catbox.moe/xfnbgf.png"
 <br />
 <br />
 Select the disk:  <br/>
